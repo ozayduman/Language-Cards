@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="nemo_2" size="5.000000 5.000000" />
+    <ImageTarget name="butterfly_2" size="5.000000 5.000000" />
+    <ImageTarget name="spider" size="5.000000 5.000000" />
+    <ImageTarget name="nemo" size="5.000000 5.000000" />
+    <ImageTarget name="fish" size="5.000000 5.000000" />
+    <ImageTarget name="butterfly" size="5.000000 5.000000" />
+  </Tracking>
+</QCARConfig>
